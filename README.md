@@ -33,5 +33,5 @@ This project focuses on using logistic regression to predict breast cancer diagn
    ```bash
    jupyter notebook breast_cancer_diagnosis.ipynb
 
-##Conclusion
+## Conclusion
 The logistic regression model achieved an accuracy of 95% on the test set, demonstrating its effectiveness in predicting breast cancer diagnosis based on the given features.
